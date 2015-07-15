@@ -31,6 +31,7 @@
 				<input type="submit" class="btn btn-primary" value="Login"> | OR | <a href="sign_up.php" class="btn btn-default">Sign Up</a>
 				</div>
 		</form>
+		<hr>
 
 
 </div>
